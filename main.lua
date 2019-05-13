@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------------------
 --
--- Created by: Aden Rao
+-- Created by: Teddy Sannan
 -- Created on: April 23, 2019
 --
 -- This program lets the user move a charcater and if the charcater hits the block it prints it to the console.
